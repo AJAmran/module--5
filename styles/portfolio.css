@@ -53,8 +53,12 @@ nav li {
     width: 160px;
     height: 64px;
     border: 1px solid;
+}
+
+.resume-title {
     font-weight: 700;
-    font-size: 20px;
+    font-size: 30px;
+    color: #474747;
 }
 
 /* banner design */
