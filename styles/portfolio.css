@@ -50,9 +50,12 @@ nav li {
 }
 
 .ctn-primary {
-    width: 160px;
     height: 64px;
-    border: 1px solid;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 5px solid #FD6E0A;
+    color: #FD6E0A;
+    padding:0 25px;
 }
 
 .resume-title {
